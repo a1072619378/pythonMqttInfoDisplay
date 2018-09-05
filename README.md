@@ -5,9 +5,9 @@ A tkinter app to display information received via mqtt
 ### Info
 <sub>
   <sup>
-    [disclaimer]
+    >[disclaimer]
   </sup>
-I'm pretty busy right now with other things so progress on this might be a little slow... 
+>I'm pretty busy right now with other things so progress on this might be a little slow... 
 </sub>
   <br>
  

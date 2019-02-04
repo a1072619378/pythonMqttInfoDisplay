@@ -11,4 +11,4 @@ I'm pretty busy right now with other things so progress on this might be a littl
 </sub>
   <br>
  
-The goal of this project is to make a simple Tkinter app which will display temperature, H´humidity and a picture received from a raspberry pi via mqtt.
+The goal of this project is to make a simple Tkinter app which should display temperature, Humidity and a picture received from a raspberry pi via mqtt.

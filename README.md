@@ -14,5 +14,5 @@ The goal of this project is to make a simple Tkinter app which should display te
   <sup>
     [disclaimer]
   </sup>
-I'm pretty busy right now with work and studies so progress on this might be a little slow... 
+Project halted
 </sub>
